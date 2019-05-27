@@ -1,0 +1,4 @@
+Esto es un ejemplo de un documento de texto
+vamos a probar
+varias cosas a ver como nos sale nuestro primer
+repositorio de Git
